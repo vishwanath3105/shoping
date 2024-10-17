@@ -1,0 +1,409 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color:black;
+}
+body{
+    /* background-color: rgb(143, 183, 143); */
+    /* position: fixed; */
+}
+.con1{
+    background-color: rgb(143, 183, 143);
+    padding-left: 15px;
+    padding-right: 15px;
+    /* display: none; */
+    position: sticky;
+    top: 0;
+
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.logo a{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+    font-style:oblique;
+    
+}
+.fa-cart-shopping{
+    font-size: 25px;
+    margin-left: 5px;
+}
+.fa-user{
+font-size: 25px;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+
+}
+.but1{
+    /* background-color:white; */
+    color:black;
+    margin-left: 10px;
+     border-radius: 10px; 
+    padding: 10px;
+    width:40px; 
+
+}
+.con2{
+     display: flex;
+     justify-content: space-between;
+     background-color: beige;
+     align-items:center ;
+     
+     
+}
+.co1{
+    width: 60%;
+    margin: 0px 0px 0px 150px;
+}
+p{
+    margin-top: 20px;
+}
+.but3{
+    color: white;
+    background-color: red;
+    width: 100px;
+    margin-bottom: 10px;
+}
+.but2{
+    margin-top: 30px;
+    border-radius: 15px;
+    width: 150px;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: purple;
+    color:black;
+}
+.but2:hover{
+    scale: 1.1;
+}
+
+.futimg{
+    width: 600px;
+    /* height: 350px; */
+    /* padding: 20px;
+    margin-right: 30px; */
+}
+.img1{
+    width: 50% ;
+}
+.con3{
+
+
+display: flex;
+justify-content: space-between;
+/* width: 100%; */
+background-color: beige;
+
+
+    }
+.po1{
+    width: 40%;
+    /* height: 300px; */
+    /* margin-top:30px ; */
+    /* margin:60px 150px 0px 100px; */
+
+}
+/* .div{
+    margin-bottom:
+ } */
+
+.pal{
+margin-top:0px;
+font-style: oblique;
+font-size: 30px;
+}
+
+
+.head{
+    color:black;
+    margin-top: 10px;
+    font-size: 50px;
+}
+.but4{
+    width: 90px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 4px;
+    /* color: black; */
+} 
+.but4:hover{
+    scale: 1.1;
+}
+
+.img1{
+    width: 600px;
+    height: 350px;
+    /* margin-top: 40px;
+    margin-left: 50px; */
+} 
+/* .con4{
+    /* display: flex; */
+    /* justify-content: space-between; */
+    width: 100%;
+    /* height:300px; */
+    background-color: beige;
+    /* margin-top: 50px; */
+    
+}
+.head1{
+    text-align: center;
+}
+.ser{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 30PX;
+    padding-left: 30PX;
+    padding-right: 30PX;
+}
+
+
+
+.zero1{
+    background-color:rgb(92, 148, 205);
+    width: 240px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 15px 8px 6px lightblue;
+    
+}
+.zero1:hover{
+    scale: 1.1;
+}
+.zero2{
+    background-color: rgb(19, 163, 241);
+    width: 240px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 15px 8px 6px lavender;
+    
+}
+.zero2:hover{
+    scale: 1.1;
+}
+.zero3{
+    background-color: rgb(248, 117, 148);
+    width: 240px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 15px 8px 6px lightpink;
+    
+}
+.zero3:hover{
+    scale: 1.1;
+}
+.zero4{
+    background-color: rgb(107, 139, 46);
+    width: 240px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 15px 8px 6px lightgreen;
+    
+}
+.zero4:hover{
+    scale: 1.1;
+}
+.vishwa1{
+    text-align: center;
+    margin-top: 10px;
+
+}
+.vishwa2{
+    text-align: center;
+    color: white;
+} */
+
+.con5{
+    width:400px;
+    /* background-color: bisque; */
+    margin-left: 100px;
+    margin-top: 50px;
+    
+    
+}
+/* .lor1{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 20px;
+} */
+/* .lor2{
+    width: 300px;
+    float: left;
+} */
+.buy{
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 50%;
+}
+.off{
+    margin-left: 70px;
+}
+.off1{
+    text-align: center;
+}
+nath{
+    width: 100%;
+}
+
+.con6{
+    width: 400px;
+    /* border: 2px solid black; */
+    /* float: right; */
+
+}
+.cus{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float:left;
+}
+
+.choi1{
+    display:flex ;
+    border: 2px solid black;
+    border-radius: 20px;
+    float: right;
+    margin-top: 30px;
+    
+}
+.choi2{
+    width: 300px;
+    float: left;
+}
+
+
+.on{
+    margin-left: 80px;
+
+}
+.on2{
+    text-align: center;
+}
+.con5{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+}
+cont
+.lor1{
+    display: flex;
+    width: 500px;
+    border: 2px solid ;
+    border-radius: 20px;
+
+}
+.conn4{
+    display: flex;
+    height: auto;
+}
+
+.conn1{
+    display: flex;
+    justify-content: end;
+    
+}
+.details{
+    padding: 30px;
+    background-color:beige;
+}
+.last1{
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+}
+.add1{
+   
+    position: absolute;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+.app{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.dis{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    gap: 20px;
+    padding: 20PX;
+}
+
+.disp{
+    width: 50%;
+    height: 130px;
+    border: 2px solid;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    /* justify-content: center; */
+
+}
+.diss2{
+    display: flex;
+    justify-content:end;
+    /* float: right; */
+}
+.image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+@media only screen and (min-width:300px) and (max-width:780px) {
+.con2{
+    flex-direction: column-reverse;
+    
+}
+.co1{
+    width: 88%;
+    margin-left: 60px;
+}
+.con3{
+    flex-direction: column-reverse;
+}
+.po1{
+    width: 100%;
+    padding: 10px;
+}
+.ser{
+    flex-direction: column;
+}
+.conn{
+    justify-content: center;
+}
+.conten{
+    justify-content: center
+}
+.disp{
+    width: 100%;
+}
+.dis4{
+    margin: 20px;
+
+}
+    
+
+}
